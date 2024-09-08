@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+N666 – n666.guru - Nhà Cái Uy Tín Hàng Đầu Châu Á Mang Đến Trải Nghiệm Cá Cược Đẳng Cấp
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`N666 <https://n666.guru/>`_ là một sân chơi đẳng cấp và uy tín, thu hút đông đảo các bet thủ từ khắp nơi. Với sự đa dạng trong các loại hình trò chơi và dịch vụ cá cược trực tuyến, N666 dần khẳng định vị thế hàng đầu tại Việt Nam và châu Á. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với hệ thống thanh toán an toàn, rút tiền nhanh chóng và đội ngũ chăm sóc khách hàng 24/7, N666 đảm bảo mang đến những trải nghiệm tuyệt vời nhất cho người chơi. Bên cạnh đó, N666 còn có các chương trình khuyến mãi hấp dẫn và sự kiện đặc biệt, góp phần nâng cao giá trị trải nghiệm của người tham gia.
 
-.. note::
+Thông tin liên hệ:
 
-   This project is under active development.
+Địa chỉ: 5F Hẻm B9, Tổ 13, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0899821646. 
 
-.. toctree::
+Email: info@n666.guru. 
 
-   usage
-   api
+Website: https://n666.guru/
+
+#n666 #nhacain666 #trangchun666 #dangkyn666 #linkn666
